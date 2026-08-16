@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ym413v.pagofacturaaltipal.top/sitemap.xml
